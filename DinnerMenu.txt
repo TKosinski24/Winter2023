@@ -1,0 +1,16 @@
+DINNER			Price	ingredients														Vegan		Vegetarian	Neither
+The Classic Burger	9.50	"lettuce, tomato, pickle and onion on a brioce bun"									No		No		Yes
+The Local		13.00	"pulled bbq pork, cheddar, cole slaw, pickles, dreamland bbq sause"							No		No		Yes
+Fruits Of The Sea	18.00	"sallops, jumbo shrimp, crab meat, thyme, garlic in a deep bullion broth, a harty soup that makes a meal"	No		No		Yes
+Steahouse Filet	35.00	"8-ounce filet migon, with loaded mashed potatoes and grilled aparagus, red wine reduction"			No		No		Yes
+Seafood Linguine	32.00	"Linguine with creamy tomato sauce with shrimp, scallops, and lobster, with fresh herbs and parmesan cheese"	No		No		Yes
+Shroom Burger		12.00	"portobello button mushrooms, swiss on a brioce bun"									No		Yes		No
+Fettucine Alfredo	20.00	"homemade tagliatelle with creamy rich alfredo sauce"								No		Yes		No
+Egg Plant Parmesan	18.00	"sauteed and breaded with tomato sauce and parmasan cheese, baked to perfection"					No		Yes		No
+Stuffed Peppers	24.00	"bell peppers stuffed seasoned rice, chickpeas, tomatoes, onions, and olives, with alemon-dill sauce"		No		Yes		No
+Eastern Market Curry	28.00	"A hearty and flavorful curry made with chickpeas, cauliflower, potatos, and carrots, over steamed rice"		No		Yes		No
+Belle Isle Tower	22.00	"grilled eggplant, zucchini, portobello mushroom, and bell pepper stacked with a quinoa base"			Yes		No		No
+Risotto Royale		26.00	"pan-seared king trumpet mushrooms sliced to resemble scallops, served with creamy lemon risotto"			Yes		No		No
+Forest Linguine	28.00	"Lliguine tossed in with earthy wild mushroom sauce with truffle oil, finished with vegan parmesan cheese"	Yes		No		No
+Red Wing Seitan	30.00	"grilled seitan steak topped with a read wine reduction, served with roasted root vegetables"			Yes		No		No
+Motown Stir Fry	20.00	"stir-fried tofu, broccoli, snap peas,and onions in soy sauce, roasted cashews and served over jasmine rice "	Yes		No		No

@@ -1,0 +1,16 @@
+LUNCH			Price	ingredients														Vegan		Vegetarian	Neither
+The Intern		9.00	"crispy chicken thigh, comeback sauce, shredded lettuce and dill pickle chips on a brioce bun"			No		No		Yes
+Boss Tom		9.00	"herbed turkey burger, baby swiss, avacado, marinated tomato, arugula and dijonnaise on a brioce bun"		No		No		Yes
+Corktown BBQ Burger	12.00	"beef patty topped with cheddar cheese, cripsy bacon, onion straws, served on a brioche bun"			No		No		Yes
+The RenCen Reuben	15.00	"Thinly sliced corned beef, swiss cheese, sauerkraut, and thousand island dressing on ryr bread"			No		No		Yes
+BBQ Chicken Wrap	14.00	"Grilled chicken, cheddar cheese, lettuce, tomato, and tangy BBQ sauce wrapped in a warm flour tortilla"		No		No		Yes
+3-Cheese Sammy		5.00	"cheddar,white chedder and coby jack on buttered texas toast"							No		Yes		No
+Veggie Burger		13.00	"Grilled portobellow mushroom cap with lettuce, tomato, onion, and avacado on a brioche bun"			No		Yes		No
+Midtown Tofo Stir Fry	14.00	"Crispy tofu with mixed vegetables and a savory sauce, served over a bed of rice"					No		Yes		No
+Veggie Quesadilla	12.00	"Grilled vegetables, cheese, and salsa folded into a warm flour tortilla served with  guacamole"			No		Yes		No
+Detroit Falafel Wrap	12.00	"Crispy falafel, lettuce, tomato, cucumber, red onion, and tahini sauce"						No		Yes		No
+Vegan Ceasar Salad	9.00	"crispy greens, smokey tempeh, gf crutons, vegan parmesan, creamy house ceasar dressing"				Yes		No		No
+Spacecat Brunch Salad	9.00	"roasted chickpeas, sweet potatos, purbple cabbage, cherry tomatoes on a bed of kale and mixed greens"		Yes		No		No
+Fake Mac & Cheese	9.00	"our house creamy cheese sause over protein packed gf chickpea pasta"						Yes		No		No
+Vegan Chicken Fingers	9.00	"our signature vegan spacecat chicken breaded and fried, served with your choice of side sauce"			Yes		No		No
+Spacecat Nachos	11.00	"pinto beans, red onions, tomatoes, black olives pickled jalapenos, cashew sour cream,vegan cheese sauce"	Yes		No		No

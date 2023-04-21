@@ -1,0 +1,16 @@
+BREAKFAST		Price	Ingredients														Vegan		Vegetarian	Neither
+Orignial Eggie		9.00	"english muffin, yellow cheddar, pork sausage, jammy-yolk egg, arugula, iggy sauce"				No		No		Yes
+Guardian Roll-up	9.50	"bacon, jammy-yolk egg, american cheese and buttermilk pancakes with mapple syrup"					No		No		Yes
+Bodega			9.00	"jammy-yolk egg, grilled beef bologna, white cheddar, mayo and mustard on an onion kaiser roll"			No		No		Yes
+Belle isle Benedicts	14.00	"Two poached eggs on toasted and English muffin with your choice of ham, smoh a side of potatoes"			No		No		Yes
+Waffle Tower		12.00	"A crispy waffle tower topped with whipped cream and fresh fruit,  sausage and ham"				No		No		Yes
+Iggycado		7.50	"jammy-yolk egg, avacodo, baby swiss, marinated tomato, arugula and iggy sauce on an english muffin"		No		Yes		No 
+Breakfast Burrito	8.00	"scrambled eggs, cheddar, white onion, salsa verde and grilled jalapeno"						No		Yes		No
+Toad Sandwich		12.00	"tempeh bacon, tomato, cheese between two slices of bread with eggs fried in the center"				No		Yes		No
+Greektown Omelette	12.00	"A three-egg omelette with sauteed spinach and crumbled feta cheese, served with a side of toast"			No		Yes		No
+Cass Avacodo Toast	10.00	"Toasted sourdough bread topped with mashed avacodo, cherry tomatoes, and crumbled feta cheese"			No		Yes		No
+Breakfast Bomb		13.00	"maple vegan sausage patty, carmelized onion, garlic greens, vegan cheese sause on jalapeno cheese biscuit"	Yes		No		No
+Breakfast Quesadilla	11.00	"roasted sweet potato, black beans, jalapenos, onion, vegan cheese"							Yes		No		No
+Migas			11.00	"burmese tofu, peppers and onions, crispy corn chips and vegan cheese"						Yes		No		No
+Spacecat Power Bowl	12.00	"scrambled burmese tofu, black beans, garlic greens, roasted vegetables, cashew sour creen and avacado"		Yes		No		No
+Spicy Vegan Wrap	7.99 	"plant-based protein, jalapeno peppers, vegan cheddar cheese, lettuce, tomato, and spicy chipotle sauce."	Yes 		No		No
